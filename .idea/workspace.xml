@@ -110,13 +110,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="文件" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="312" y="39" key="CommitChangelistDialog2" timestamp="1583653978012">
+    <state x="312" y="39" key="CommitChangelistDialog2" timestamp="1583654480043">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="312" y="39" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1583653978012" />
+    <state x="312" y="39" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1583654480043" />
     <state x="578" y="339" key="Github.ShareDialog" timestamp="1583590047360">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="578" y="339" key="Github.ShareDialog/0.23.1440.822@0.23.1440.822" timestamp="1583590047360" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1583654659022">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1583654659022" />
   </component>
 </project>
